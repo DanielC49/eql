@@ -1,3 +1,3 @@
-### Very simple key-value data storage format.
+### Very simple key-value data storage format
 
-See core versions and documentation [here](https://pptgamespt.wixsite.com/pptg-coding/eql).
+See more versions and documentation [here](https://pptgamespt.wixsite.com/pptg-coding/eql).
